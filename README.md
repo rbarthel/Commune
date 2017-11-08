@@ -46,5 +46,20 @@ Hosts can create events and upload photos.
 
 ## Dependencies
 
-- Node 5.10.x or above
-- NPM 3.8.x or above
+- node 5.10.x or above
+- npm 3.8.x or above
+- @google/maps 0.4.5
+- babel 6.x
+- bcrypt 1.0.3
+- bootstrap 4.x
+- cookie-session 2.0.0-beta.3
+- dotenv 4.0.0
+- express 4.16.2
+- google-map-react 0.25.0
+- jquery 3.2.1
+- knex 0.13.0
+- react 15.6.1
+- react-dom 15.6.1
+- react-router-dom 4.2.2
+- stripe 5.2.0
+- webpack 3.5.5

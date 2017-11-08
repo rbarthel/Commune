@@ -63,3 +63,4 @@ Hosts can create events and upload photos.
 - react-router-dom 4.2.2
 - stripe 5.2.0
 - webpack 3.5.5
+- PostgreSQL

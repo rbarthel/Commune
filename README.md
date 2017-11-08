@@ -1,24 +1,23 @@
 # Commune
 
-By ...
+## What it is
 
-## Environments
+Commune is a fully featured web app, enabling people to host dinner parties and popup restaurants, while connecting them with food aficionados in search of a unique experience. Think AirBnB for your dinner table.
 
-- Both development servers are required to run Commune
-- `npm run dev:server` to run on localhost:3000
-- In a separate terminal tab, `npm run dev:server` to run on localhost:3001
+Guests can search available events by name, menu contents or location. They can see details about the event including location on a map. They can book a seat and pay using our Stripe integration. They can read reviews and post their own.
 
-## Features
+Hosts can create events and upload photos.
 
-1. To be added
+## Screenshots
 
-## Captures
+![Main Page](https://github.com/rbarthel/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.04.48%20AM.png?raw=true)
+![Search](https://raw.githubusercontent.com/rbarthel/Commune/master/public/github-images/search.jpeg)
+![Event Details](https://github.com/rbarthel/Commune/blob/master/public/github-images/event_details.jpeg?raw=true)
+![Menu & Guestlist](https://github.com/rbarthel/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.06.33%20AM.png?raw=true)
+![Reviews](https://github.com/rbarthel/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.11.25%20AM.png?raw=true)
+![Profile](https://github.com/rbarthel/Commune/blob/master/public/github-images/profile.jpeg?raw=true)
 
-![Alt text](https://github.com/TuanPham303/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.04.48%20AM.png?raw=true)
-![Alt text](https://github.com/TuanPham303/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.06.33%20AM.png?raw=true)
-![Alt text](https://github.com/TuanPham303/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.11.25%20AM.png?raw=true)
-
-## Starting Up Commune
+## Getting Started
 
 1. Create your own empty repo on GitHub
 2. Clone this repository (do not fork)
@@ -38,6 +37,12 @@ By ...
   - Check the seeds file to see what gets seeded in the DB
 13. Run the server: `npm run local`
 14. Visit `http://localhost:3000/`
+
+## Environments
+
+- Both development servers are required to run Commune
+- `npm run dev:server` to run on localhost:3000
+- In a separate terminal tab, `npm run dev:server` to run on localhost:3001
 
 ## Dependencies
 
